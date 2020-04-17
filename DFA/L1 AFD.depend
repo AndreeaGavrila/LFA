@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583092582 source:c:\users\asus\desktop\lfa lab 20\l1 afd\main.cpp
+	<iostream>
+	<set>
+	<map>
+	<string>
+
