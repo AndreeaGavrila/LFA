@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583162300 source:c:\users\asus\desktop\lfa lab 20\nfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
