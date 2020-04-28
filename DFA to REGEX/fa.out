@@ -1,0 +1,3 @@
+
+REGEX simplificat pentru DFA:
+((a  b) ($+b  b)* a) ($+(a  b) ($+b  b)* a)* )
